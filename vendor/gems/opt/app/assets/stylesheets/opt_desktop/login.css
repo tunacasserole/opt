@@ -1,0 +1,22 @@
+/*
+---------------------------------------------------------------------------------------
+  LOGIN COMPONENT
+---------------------------------------------------------------------------------------
+*/
+
+.login {
+  background: url(/assets/buildit/desktop/backgrounds/buildit-light.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.loginLogo {
+	background: url(/assets/buildit/desktop/logos/signin-logo.png) no-repeat;
+}
+
+.loginSidebar{
+  background-color:#276DA5;
+}
+

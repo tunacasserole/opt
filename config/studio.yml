@@ -1,0 +1,5 @@
+studio:
+  uri: http://studio.buildit.io/api
+  api_token: KP8V4Z9mBv
+  project: OPT
+  package: opt

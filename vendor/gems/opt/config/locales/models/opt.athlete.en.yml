@@ -1,0 +1,11 @@
+en:
+  activerecord:
+    models:
+      opt/athlete:  'Model'
+    attributes:
+      opt/athlete:
+        athlete_id:                        'Athlete'
+        first_name:                        'First Name'
+        last_name:                         'Last Name'
+        full_name:                         'Full Name'
+        is_destroyed:                      'Is Destroyed'

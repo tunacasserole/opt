@@ -1,0 +1,10 @@
+studio:
+development:
+  BUILDIT:     app/direct
+
+test:
+  BUILDIT:     app/direct
+
+production:
+  BUILDIT:     app/direct
+

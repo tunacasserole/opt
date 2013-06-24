@@ -1,0 +1,13 @@
+
+development:
+  user_identifier: email_address
+  default_plugin: 'buildit'
+
+production:
+  user_identifier: email_address
+  default_plugin: 'buildit'
+
+production:
+  user_identifier: email_address
+  default_plugin: 'buildit'
+

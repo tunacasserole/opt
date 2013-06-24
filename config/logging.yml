@@ -1,0 +1,65 @@
+
+production:
+  log_level:  ERROR
+  trace_on:   false
+  repository:
+    enabled:  true
+    tenanted: true
+    buffer:   100
+  log_file:
+    enabled:  false
+    name:     production.log
+    maxsize:  10
+    truncate: false
+  console:
+    enabled:  false
+    format:   '[%5l] %d %30c | %.100m [%t]'
+  messaging:  
+    enabled:  false
+    queue:    production_queue_name
+development:
+  log_level:  INFO
+  trace_on:   true
+  repository: 
+    enabled:  true
+    tenanted: true
+    buffer:   100
+  log_file:
+    enabled:  true
+    name:     development.log
+    maxsize:  10
+    truncate: true
+  console:
+    enabled:  true
+    format:   '[%5l] %d %30c | %.100m [%t]'
+  messaging:  
+    enabled:  false
+    queue:    development_queue_name
+test:
+  log_level:  DEBUG
+  trace_on:   true
+  repository: 
+    enabled:  true
+    tenanted: true
+    buffer:   100
+  log_file:
+    enabled:  true
+    name:     test.log
+    maxsize:  10
+    truncate: true
+  console:
+    enabled:  false
+    format:   '[%5l] %d %30c | %.100m [%t]'
+  messaging:  
+    enabled:  false
+    queue:    test_queue_name
+scrutiny:
+  log_level:  INFO
+  trace_on:   false
+  log_file:
+    enabled:  true
+    name:     scrutiny.log
+    maxsize:  30
+    truncate: true
+
+

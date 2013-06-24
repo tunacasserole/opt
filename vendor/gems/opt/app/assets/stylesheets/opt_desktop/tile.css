@@ -1,0 +1,119 @@
+/*
+---------------------------------------------------------------------------------------
+  TILE COMPONENT(S)
+---------------------------------------------------------------------------------------
+*/
+
+
+/*
+  PICK TICKETS
+*/
+
+.tile.ship_pick_tickets {
+  background-image: url(/assets/opt/desktop/icons/tile/ship_pick_tickets52x52.png);
+}
+
+.tile.release_pick_tickets {
+  background-image: url(/assets/opt/desktop/icons/tile/release_pick_tickets52x52.png);
+}
+
+.tile.complete_pick_tickets {
+  background-image: url(/assets/opt/desktop/icons/tile/complete_pick_tickets52x52.png);
+}
+
+.tile.cancel_pick_tickets {
+  background-image: url(/assets/opt/desktop/icons/tile/cancel_pick_tickets52x52.png);
+}
+
+.tile.start_pick_tickets {
+  background-image: url(/assets/opt/desktop/icons/tile/start52x52.png);
+}
+
+.tile.pick_tickets {
+  background-image: url(/assets/opt/desktop/icons/tile/pick_tickets52x52.png);
+}
+
+
+/*
+  TRANSFERS
+*/
+
+.tile.receive_transfers {
+  background-image: url(/assets/opt/desktop/icons/tile/receive_transfers52x52.png);
+}
+
+.tile.approve_transfers {
+  background-image: url(/assets/opt/desktop/icons/tile/check52x52.png);
+}
+
+.tile.ship_transfers {
+  background-image: url(/assets/opt/desktop/icons/tile/ship_transfers52x52.png);
+}
+
+.tile.transfers {
+  background-image: url(/assets/opt/desktop/icons/tile/transfers52x52.png);
+}
+
+.tile.colors {
+  background-image: url(/assets/opt/desktop/icons/tile/color52x52.png);
+}
+
+.tile.skus {
+  background-image: url(/assets/opt/desktop/icons/tile/skus52x52.png);
+}
+
+.tile.companies {
+  background-image: url(/assets/opt/desktop/icons/tile/sites52x52.png);
+}
+
+.tile.sites {
+  background-image: url(/assets/opt/desktop/icons/tile/sites52x52.png);
+}
+
+.tile.locations {
+  background-image: url(/assets/opt/desktop/icons/tile/locations52x52.png);
+}
+
+.tile.tills {
+  background-image: url(/assets/opt/desktop/icons/tile/tills52x52.png);
+}
+
+.tile.customers {
+  background-image: url(/assets/opt/desktop/icons/tile/customers52x52.png);
+}
+
+.tile.sizes {
+  background-image: url(/assets/opt/desktop/icons/tile/sizes52x52.png);
+}
+
+.tile.sizegroups {
+  background-image: url(/assets/opt/desktop/icons/tile/sizegroups52x52.png);
+}
+
+.tile.orders {
+  background-image: url(/assets/opt/desktop/icons/tile/orders52x52.png);
+}
+
+.tile.pricebooks {
+  background-image: url(/assets/opt/desktop/icons/tile/pricebooks52x52.png);
+}
+
+.tile.tax_authorities {
+  background-image: url(/assets/opt/desktop/icons/tile/tax52x52.png);
+}
+
+.tile.regions {
+  background-image: url(/assets/opt/desktop/icons/tile/regions52x52.png);
+}
+
+.tile.districts {
+  background-image: url(/assets/opt/desktop/icons/tile/districts52x52.png);
+}
+
+.tile.grades {
+  background-image: url(/assets/opt/desktop/icons/tile/grades52x52.png);
+}
+
+.tile.states {
+  background-image: url(/assets/opt/desktop/icons/tile/states52x52.png);
+}

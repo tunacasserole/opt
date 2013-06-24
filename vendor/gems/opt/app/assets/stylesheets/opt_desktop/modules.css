@@ -1,0 +1,441 @@
+/*
+---------------------------------------------------------------------------------------
+   ACCOUNTS
+---------------------------------------------------------------------------------------
+*/
+
+
+/* Inspector Logo */
+.inspector .tab.accounts.x-panel-body .logo {
+  background-image: url(/assets/opt/desktop/icons/module/accounts.png);
+  background-color: #8900AF;
+}
+
+/* Inspector Logo Active & Hover */
+.inspector .tab.accounts.active .x-panel-body .logo, .inspector .tab.accounts .x-panel-body:hover .logo {
+  background-image: url(/assets/opt/desktop/icons/module/accounts.png);
+  background-color: #600079;
+}
+
+/* Inspector Tab Active & Hover */
+.inspector .tab.accounts.active .x-panel-body, .inspector .tab.accounts.active .x-panel-body:hover, .inspector .tab.accounts .x-panel-body:hover {
+  background: #8900AF;
+}
+
+/* Tile */
+.tile.accounts {
+	background-image: url(/assets/opt/tile/accounts.png);
+	background-color: #8900AF !important;
+}
+
+.tile.accounts:hover {
+	background-color: #600079 !important;
+}
+
+
+/*
+---------------------------------------------------------------------------------------
+   LEADS
+---------------------------------------------------------------------------------------
+*/
+
+
+/* Inspector Logo */
+.inspector .tab.leads .x-panel-body .logo {
+  background-image: url(/assets/opt/desktop/icons/module/leads.png);
+  background-color: #0075C9;
+}
+
+/* Inspector Logo Active & Hover */
+.inspector .tab.leads.active .x-panel-body .logo, .inspector .tab.leads .x-panel-body:hover .logo {
+  background-image: url(/assets/opt/desktop/icons/module/leads.png);
+  background-color: #005491;
+}
+
+/* Inspector Tab Active & Hover */
+.inspector .tab.leads.active .x-panel-body, .inspector .tab.leads.active .x-panel-body:hover, .inspector .tab.leads .x-panel-body:hover {
+  background: #0075C9;
+}
+
+/* Tile */
+.tile.leads {
+	background-image: url(/assets/opt/tile/leads.png);
+	background-color: #0075C9 !important;
+}
+
+.tile.leads:hover {
+	background-color: #005491 !important;
+}
+
+
+
+
+/*
+---------------------------------------------------------------------------------------
+   CONTRACTS
+---------------------------------------------------------------------------------------
+*/
+
+
+/* Inspector Logo */
+.inspector .tab.contracts .x-panel-body .logo {
+  background-image: url(/assets/opt/desktop/icons/module/contracts.png);
+  background-color: #17A300;
+}
+
+/* Inspector Logo Active & Hover */
+.inspector .tab.contracts.active .x-panel-body .logo, .inspector .tab.contracts .x-panel-body:hover .logo {
+  background-image: url(/assets/opt/desktop/icons/module/contracts.png);
+  background-color: #0C7300;
+}
+
+/* Inspector Tab Active & Hover */
+.inspector .tab.contracts.active .x-panel-body, .inspector .tab.contracts.active .x-panel-body:hover, .inspector .tab.contracts .x-panel-body:hover {
+  background: #17A300;
+}
+
+/* Tile */
+.tile.contracts {
+	background-image: url(/assets/opt/tile/contracts.png);
+	background-color: #17A300 !important;
+}
+
+.tile.contracts:hover {
+	background-color: #0C7300 !important;
+}
+
+/*
+---------------------------------------------------------------------------------------
+   CONTACTS
+---------------------------------------------------------------------------------------
+*/
+
+
+/* Inspector Logo */
+.inspector .tab.contacts .x-panel-body .logo {
+  background-image: url(/assets/opt/desktop/icons/module/contacts.png);
+  background-color: #B60D44;
+}
+
+/* Inspector Logo Active & Hover */
+.inspector .tab.contacts.active .x-panel-body .logo, .inspector .tab.contacts .x-panel-body:hover .logo {
+  background-image: url(/assets/opt/desktop/icons/module/contacts.png);
+  background-color: #84052E;
+}
+
+/* Inspector Tab Active & Hover */
+.inspector .tab.contacts.active .x-panel-body, .inspector .tab.contacts.active .x-panel-body:hover, .inspector .tab.contacts .x-panel-body:hover {
+  background: #B60D44;
+}
+
+/* Tile */
+.tile.contacts {
+	background-image: url(/assets/opt/tile/contacts.png);
+	background-color: #B60D44 !important;
+}
+
+.tile.contacts:hover {
+	background-color: #84052E !important;
+}
+
+
+/*
+---------------------------------------------------------------------------------------
+   CHECKLISTS
+---------------------------------------------------------------------------------------
+*/
+
+
+/* Inspector Logo */
+.inspector .tab.checklists .x-panel-body .logo {
+  background-image: url(/assets/opt/desktop/icons/module/checklists.png);
+  background-color: #F6BD00;
+}
+
+/* Inspector Logo Active & Hover */
+.inspector .tab.checklists.active .x-panel-body .logo, .inspector .tab.checklists .x-panel-body:hover .logo {
+  background-image: url(/assets/opt/desktop/icons/module/checklists.png);
+  background-color: #856500;
+}
+
+
+/* Inspector Tab Active & Hover */
+.inspector .tab.checklists.active .x-panel-body, .inspector .tab.checklists.active .x-panel-body:hover, .inspector .tab.checklists .x-panel-body:hover {
+  background: #F6BD00;
+}
+
+/* Tile */
+.tile.checklists {
+	background-image: url(/assets/opt/tile/checklists.png);
+	background-color: #F6BD00 !important;
+}
+
+.tile.checklists:hover {
+	background-color: #CA9B00 !important;
+}
+
+/*
+---------------------------------------------------------------------------------------
+   DONATIONS
+---------------------------------------------------------------------------------------
+*/
+
+
+/* Inspector Logo */
+.inspector .tab.donations .x-panel-body .logo {
+  background-image: url(/assets/opt/desktop/icons/module/donations.png);
+  background-color: #DC592F;
+}
+
+/* Inspector Logo Active & Hover */
+.inspector .tab.donations.active .x-panel-body .logo, .inspector .tab.donations .x-panel-body:hover .logo {
+  background-image: url(/assets/opt/desktop/icons/module/donations.png);
+  background-color: #A13E1E;
+}
+
+/* Inspector Tab Active & Hover */
+.inspector .tab.donations.active .x-panel-body, .inspector .tab.donations.active .x-panel-body:hover, .inspector .tab.donations .x-panel-body:hover {
+  background: #DC592F;
+}
+
+/* Tile */
+.tile.donations {
+	background-image: url(/assets/opt/tile/donations.png);
+	background-color: #DC592F !important;
+}
+
+.tile.donations:hover {
+	background-color: #A13E1E !important;
+}
+
+
+/*
+---------------------------------------------------------------------------------------
+   IMPORTS
+---------------------------------------------------------------------------------------
+*/
+
+
+/* Inspector Logo */
+.inspector .tab.imports .x-panel-body .logo {
+  background-image: url(/assets/opt/desktop/icons/module/imports.png);
+  background-color: #00A5A6;
+}
+
+/* Inspector Logo Active & Hover */
+.inspector .tab.imports.active .x-panel-body .logo, .inspector .tab.imports .x-panel-body:hover .logo {
+  background-image: url(/assets/opt/desktop/icons/module/imports.png);
+  background-color: #007373;
+}
+
+/* Inspector Tab Active & Hover */
+.inspector .tab.imports.active .x-panel-body, .inspector .tab.imports.active .x-panel-body:hover, .inspector .tab.imports .x-panel-body:hover {
+  background: #00A5A6;
+}
+
+/* Tile */
+.tile.imports {
+	background-image: url(/assets/opt/tile/imports.png);
+	background-color: #00A5A6 !important;
+}
+
+.tile.imports:hover {
+	background-color: #007373 !important;
+}
+
+
+/*
+---------------------------------------------------------------------------------------
+   PROJECTIONS
+---------------------------------------------------------------------------------------
+*/
+
+
+/* Inspector Logo */
+.inspector .tab.projections .x-panel-body .logo {
+  background-image: url(/assets/opt/desktop/icons/module/projections.png);
+  background-color: #757575;
+}
+
+/* Inspector Logo Active & Hover */
+.inspector .tab.projections.active .x-panel-body .logo, .inspector .tab.projections .x-panel-body:hover .logo {
+  background-image: url(/assets/opt/desktop/icons/module/projections.png);
+  background-color: #3C3C3C;
+}
+
+/* Inspector Tab Active & Hover */
+.inspector .tab.projections.active .x-panel-body, .inspector .tab.projections.active .x-panel-body:hover, .inspector .tab.projections .x-panel-body:hover {
+  background: #757575;
+}
+
+/*
+---------------------------------------------------------------------------------------
+   STYLES
+---------------------------------------------------------------------------------------
+*/
+
+
+/* Inspector Logo */
+.inspector .tab.styles .x-panel-body .logo {
+  background-image: url(/assets/opt/desktop/icons/module/styles.png);
+  background-color: #757575;
+}
+
+/* Inspector Logo Active & Hover */
+.inspector .tab.styles.active .x-panel-body .logo, .inspector .tab.styles .x-panel-body:hover .logo {
+  background-image: url(/assets/opt/desktop/icons/module/styles.png);
+  background-color: #3C3C3C;
+}
+
+
+/* Inspector Tab Active & Hover */
+.inspector .tab.styles.active .x-panel-body, .inspector .tab.styles.active .x-panel-body:hover, .inspector .tab.styles .x-panel-body:hover {
+  background: #757575;
+}
+
+
+/*
+---------------------------------------------------------------------------------------
+   SKUS
+---------------------------------------------------------------------------------------
+*/
+
+
+/* Inspector Logo */
+.inspector .tab.skus .x-panel-body .logo {
+  background-image: url(/assets/opt/desktop/icons/module/skus.png);
+  background-color: #757575;
+}
+
+/* Inspector Logo Active & Hover */
+.inspector .tab.skus.active .x-panel-body .logo, .inspector .tab.skus .x-panel-body:hover .logo {
+  background-image: url(/assets/opt/desktop/icons/module/skus.png);
+  background-color: #3C3C3C;
+}
+
+
+/* Inspector Tab Active & Hover */
+.inspector .tab.skus.active .x-panel-body, .inspector .tab.skus.active .x-panel-body:hover, .inspector .tab.skus .x-panel-body:hover {
+  background: #757575;
+}
+
+
+/*
+---------------------------------------------------------------------------------------
+   APPROVALS
+---------------------------------------------------------------------------------------
+*/
+
+
+/* Inspector Logo */
+.inspector .tab.approvals .x-panel-body .logo, .inspector .tab.approvals .x-panel-body:hover .logo {
+  background-image: url(/assets/opt/desktop/icons/module/approvals.png);
+  background-color: #69A900;
+}
+
+/* Inspector Tab Active & Hover */
+.inspector .tab.approvals.active .x-panel-body, .inspector .tab.approvals.active .x-panel-body:hover, .inspector .tab.approvals .x-panel-body:hover {
+  background: #76BC00;
+}
+
+
+/*
+---------------------------------------------------------------------------------------
+   SURVEY
+---------------------------------------------------------------------------------------
+*/
+
+
+/* Inspector Logo */
+.inspector .tab.survey .x-panel-body .logo, .inspector .tab.survey .x-panel-body:hover .logo {
+  background-image: url(/assets/opt/desktop/icons/module/survey.png);
+  background-color: #4E0077;
+}
+
+/* Inspector Tab Active & Hover */
+.inspector .tab.survey.active .x-panel-body, .inspector .tab.survey.active .x-panel-body:hover, .inspector .tab.survey .x-panel-body:hover {
+  background: #7400AF;
+}
+
+
+/*
+---------------------------------------------------------------------------------------
+   TRACKS
+---------------------------------------------------------------------------------------
+*/
+
+
+/* Inspector Logo */
+.inspector .tab.tracks .x-panel-body .logo {
+  background-image: url(/assets/opt/desktop/icons/module/tracks.png);
+  background-color: #FF2082;
+}
+
+/* Inspector Logo Active & Hover*/
+.inspector .tab.tracks.active .x-panel-body .logo, .inspector .tab.tracks .x-panel-body:hover .logo {
+  background-image: url(/assets/opt/desktop/icons/module/tracks.png);
+  background-color: #8A0942;
+}
+
+/* Inspector Tab Active & Hover */
+.inspector .tab.tracks.active .x-panel-body, .inspector .tab.tracks.active .x-panel-body:hover, .inspector .tab.tracks .x-panel-body:hover {
+  background: #FF2082;
+}
+
+
+/*
+---------------------------------------------------------------------------------------
+   FINANCIAL SCORECARD
+---------------------------------------------------------------------------------------
+*/
+
+
+/* Inspector Logo */
+.inspector .tab.financial_scorecards .x-panel-body .logo, .inspector .tab.financial_scorecards .x-panel-body:hover .logo {
+  background-image: url(/assets/opt/desktop/icons/module/financial_scorecards.png);
+  background-color: #5F5F5F;
+}
+
+/* Inspector Tab Active & Hover */
+.inspector .tab.financial_scorecards.active .x-panel-body, .inspector .tab.financial_scorecards.active .x-panel-body:hover, .inspector .tab.financial_scorecards .x-panel-body:hover {
+  background: #6A6A6A;
+}
+
+
+/*
+---------------------------------------------------------------------------------------
+   MONTHLY REPORTS
+---------------------------------------------------------------------------------------
+*/
+
+
+/* Inspector Logo */
+.inspector .tab.monthly_reports .x-panel-body .logo, .inspector .tab.monthly_reports .x-panel-body:hover .logo {
+  background-image: url(/assets/opt/desktop/icons/module/monthly_reports.png);
+  background-color: #5F5F5F;
+}
+
+/* Inspector Tab Active & Hover */
+.inspector .tab.monthly_reports.active .x-panel-body, .inspector .tab.monthly_reports.active .x-panel-body:hover, .inspector .tab.monthly_reports .x-panel-body:hover {
+  background: #6A6A6A;
+}
+
+/*
+---------------------------------------------------------------------------------------
+   CUSTOMER NEEDS
+---------------------------------------------------------------------------------------
+*/
+
+
+/* Inspector Logo */
+.inspector .tab.customer_needs .x-panel-body .logo, .inspector .tab.customer_needs .x-panel-body:hover .logo {
+  background-image: url(/assets/opt/desktop/icons/module/customer_needs.png);
+  background-color: #5F5F5F;
+}
+
+/* Inspector Tab Active & Hover */
+.inspector .tab.customer_needs.active .x-panel-body, .inspector .tab.customer_needs.active .x-panel-body:hover, .inspector .tab.customer_needs .x-panel-body:hover {
+  background: #6A6A6A;
+}
+
+

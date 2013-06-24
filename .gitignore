@@ -1,0 +1,37 @@
+# Ignore bundler config
+/.bundle
+
+# Ignore the default SQLite database.
+/db/*.sqlite3
+
+# Ignore all logfiles and tempfiles.
+/log/*.log
+/log/*.log.lck
+/log/**
+/tmp
+
+.DS_Store
+.idea
+/.idea
+
+# Roo files
+oo*
+*.log
+
+
+config/database.yml
+
+/solr/pids
+/solr/data
+
+docs
+
+# Ignore programmer's notepad files
+horizon.pnproj
+horizon.pnps
+
+/vendor/gems/buildit
+/vendor/gems/horizon
+
+#Ignore the error logs for seed
+/vendor/gems/opt/db/error/*.*

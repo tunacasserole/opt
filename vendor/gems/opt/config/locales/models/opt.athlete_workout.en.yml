@@ -1,0 +1,14 @@
+en:
+  activerecord:
+    models:
+      opt/athlete_workout:  'Model'
+    attributes:
+      opt/athlete_workout:
+        workout_id:                        'Workout'
+        athlete_id:                        'Athlete'
+        workout_name:                      'Workout Name'
+        state:                             'State'
+        workout_date:                      'Workout Date'
+        description:                       'Description'
+        results:                           'Results'
+        is_destroyed:                      'Is Destroyed'
