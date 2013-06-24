@@ -19,7 +19,7 @@ oo*
 *.log
 
 
-config/database.yml
+# config/database.yml
 
 /solr/pids
 /solr/data
