@@ -83,7 +83,7 @@ class Opt::Athlete < ActiveRecord::Base
   
   # EVENTFUL (Start) =========================================================================
   eventful do 
-    after :create, :if => :evaluate_me, :publish => "new athlete was created", :title => 'athlete created'
+    after :update, :if => :evaluate_me, :publish => "new athlete was created", :title => 'athlete created'
   end
 
   def evaluate_me

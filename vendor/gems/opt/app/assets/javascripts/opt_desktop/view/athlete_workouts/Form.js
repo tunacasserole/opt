@@ -54,14 +54,14 @@ Ext.define('Opt.view.athlete_workouts.Form', {
             }
           */
 
-            { xtype: 'textfield', name: 'workout_id',                     fieldLabel: this.workout_idLabel                  , allowBlank: false },    
-            { xtype: 'textfield', name: 'athlete_id',                     fieldLabel: this.athlete_idLabel                  , allowBlank: false },    
+            // { xtype: 'textfield', name: 'workout_id',                     fieldLabel: this.workout_idLabel                  , allowBlank: false },    
+            // { xtype: 'textfield', name: 'athlete_id',                     fieldLabel: this.athlete_idLabel                  , allowBlank: false },    
             { xtype: 'textfield', name: 'workout_name',                   fieldLabel: this.workout_nameLabel                , allowBlank: false },    
             { xtype: 'textfield', name: 'state',                          fieldLabel: this.stateLabel                       , allowBlank: false },    
             { xtype: 'textfield', name: 'workout_date',                   fieldLabel: this.workout_dateLabel                , allowBlank: false },    
             { xtype: 'textfield', name: 'description',                    fieldLabel: this.descriptionLabel                 , allowBlank: false },    
             { xtype: 'textfield', name: 'results',                        fieldLabel: this.resultsLabel                     , allowBlank: false },    
-            { xtype: 'textfield', name: 'is_destroyed',                   fieldLabel: this.is_destroyedLabel                , allowBlank: false }    
+            // { xtype: 'textfield', name: 'is_destroyed',                   fieldLabel: this.is_destroyedLabel                , allowBlank: false }    
           ]
         }
       ]

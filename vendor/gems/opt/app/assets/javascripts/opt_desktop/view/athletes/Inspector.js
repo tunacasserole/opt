@@ -18,7 +18,36 @@ Ext.define('Opt.view.athletes.Inspector',{
     // CARDS (Start) =======================================================================
     Ext.apply(this, {
       cards: [
-        {title: 'Profile',           xtype: 'opt-athletes-Form'}
+        {title: 'Profile',           xtype: 'opt-athletes-Form'},
+        {title: 'Workouts', xtype: 'opt-athlete_workouts-Explorer',
+           defaultSearch: { with: 
+             {
+               athlete_id:   {equal_to: me.record.get('athlete_id')}
+             }
+          }
+        },                                    
+        {
+          title: 'Notes',
+          xtype: 'buildit-notes-Explorer',
+          module: 'notes',                      
+          defaultSearch: { with: 
+            {
+              notable_type: {equal_to: 'Sbna::Cfar'},
+              notable_id:   {equal_to: me.record.get('cfar_id')}
+            }
+          }
+        },
+        {
+          title: 'Attachments',
+          xtype: 'buildit-attachments-Explorer',
+          module: 'attachments',                      
+          defaultSearch: { with: 
+            {
+              attachable_type: {equal_to: 'Sbna::Cfar'},
+              attachable_id:   {equal_to: me.record.get('cfar_id')}
+            }
+          }
+        }        
       ]
     });
     // CARDS (End)

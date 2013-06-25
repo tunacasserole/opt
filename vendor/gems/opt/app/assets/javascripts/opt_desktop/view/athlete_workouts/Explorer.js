@@ -44,14 +44,14 @@ Ext.define('Opt.view.athlete_workouts.Explorer', {
     // COLUMNS (Start) =====================================================================
     Ext.apply(this, {
       columns: [
-        { header: this.workout_idLabel,                    dataIndex: 'workout_id',                  flex: 1 },    
-        { header: this.athlete_idLabel,                    dataIndex: 'athlete_id',                  flex: 1 },    
+        // { header: this.workout_idLabel,                    dataIndex: 'workout_id',                  flex: 1 },    
+        // { header: this.athlete_idLabel,                    dataIndex: 'athlete_id',                  flex: 1 },    
         { header: this.workout_nameLabel,                  dataIndex: 'workout_name',                flex: 1 },    
         { header: this.stateLabel,                         dataIndex: 'state',                       flex: 1 },    
         { header: this.workout_dateLabel,                  dataIndex: 'workout_date',                flex: 1 },    
         { header: this.descriptionLabel,                   dataIndex: 'description',                 flex: 1 },    
         { header: this.resultsLabel,                       dataIndex: 'results',                     flex: 1 },    
-        { header: this.is_destroyedLabel,                  dataIndex: 'is_destroyed',                flex: 1 }    
+        // { header: this.is_destroyedLabel,                  dataIndex: 'is_destroyed',                flex: 1 }    
       ]
     });
     // COLUMNS (End)
